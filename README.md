@@ -24,3 +24,7 @@ See [HISTORY.md](HISTORY.md) for the assigned-date policy and [CREDITS.md](CREDI
 - [Assigned-date calendar](ARCHIVE_CALENDAR.md)
 
 All documentation above was assembled during the current portfolio edition. The archived PDFs retain their original content and dates.
+
+## Later portfolio documentation
+
+- [Reconstructed portfolio notes](portfolio-notes/README.md)
