@@ -4,3 +4,4 @@ These notes were assembled in 2026 as transparent extensions to finalized course
 
 ## Index
 - [Reproducibility: accessibility pass](2024/05/02-reproducibility-accessibility-pass.md)
+- [Model Assumptions: assumption register](2024/05/09-model-assumptions-assumption-register.md)
